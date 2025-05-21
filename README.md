@@ -1,4 +1,4 @@
-# netmontool
+# NetMonTool
 Network monitor tool checks for suspicious keywords; uses scapy
 
 ## Usage
